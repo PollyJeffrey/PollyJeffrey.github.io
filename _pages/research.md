@@ -14,4 +14,4 @@ Although my current research focuses around molecular interactions, I am also in
 			
 As well as mathematical modelling and statistical inference, I enjoy programming and have experience both Python, R, Mathematica and Matlab.
 
-<img src="/images/leeds.png?raw=true"/>
+<img src="/images/leeds2.png?raw=true"/>
