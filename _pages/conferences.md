@@ -11,3 +11,5 @@ author_profile: true
 4. *Statistics and modelling in infectious disease*, University of Washington, July 2018
 5. *Cancer cell signalling*, University of Leeds, June 2018, **presentation**
 6. *In silico systems biology*, EMBL-EBI Cambridge, June 2018, **poster**
+
+<img src="/images/Math_bio.png?raw=true"/>
