@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student in applied mathematics, University of Leeds"
   location         : "Leeds, UK"
-  employer         : "https://eps.leeds.ac.uk/maths/pgr/4918/polly-anne-jeffrey"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : mm13paj@leeds.ac.uk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://eps.leeds.ac.uk/maths/pgr/4918/polly-anne-jeffrey"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/polly-anne-jeffrey"
+  linkedin         : "polly-anne-jeffrey/"
   orcid            : "https://orcid.org/0000-0001-6476-0402"
   pinterest        :
   soundcloud       :
