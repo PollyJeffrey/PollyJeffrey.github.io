@@ -13,3 +13,5 @@ I am interested in using deterministic and stochastic mathematical models to ans
 Although my current research focuses around molecular interactions, I am also interested in using mathematical modelling to study the spread of disease, within host and within a population. Viral and bacterial modelling is a focus of the research group as a whole which I am currently a member of.
 			
 As well as mathematical modelling and statistical inference, I enjoy programming and have experience both Python, R, Mathematica and Matlab.
+
+<img src="/images/leeds.png?raw=true"/>
