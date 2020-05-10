@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Lin, C.C., Suen, K.M., **Jeffrey, P.A.**, Wieteska, L., Stainthorp, A., Seiler, C., Koss, H., Molina-París, C., Miska, E.A., Ahmed, Z. and Ladbury, J.E., 2019. *Receptor tyrosine kinases regulate signal transduction through a liquid-liquid phase separated state.* bioRxiv, p.783720.
