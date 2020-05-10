@@ -13,7 +13,7 @@ name                     : &name "Polly-Anne Jeffrey"
 description              : &description "This is some information about me"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "PollyJeffrey/PollyJeffrey.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Polly-Anne Jeffrey"
-  avatar           : "image_head.jpg"
+  avatar           : "profile.png"
   bio              : "PhD student in applied mathematics, University of Leeds"
   location         : "Leeds, UK"
   employer         :
