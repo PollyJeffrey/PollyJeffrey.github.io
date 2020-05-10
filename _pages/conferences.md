@@ -5,8 +5,6 @@ permalink: /conferences/
 author_profile: true
 ---
 
-## Conferences and workshops attended
-
 1. *The mathematics of biology and medicine*, University of Leeds, September 2019, **organiser**
 2. *Stochastic modelling in health and disease*, University of Leeds, September 2019
 3. *Mathematical modelling in immunology*, BSI Cambridge, May 2019
