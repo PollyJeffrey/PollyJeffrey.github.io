@@ -12,7 +12,7 @@ author_profile: true
 3. *Stochastic modelling in health and disease*, University of Leeds, September 2019, **participant**.
 4. *Mathematical modelling in immunology*, BSI Cambridge, May 2019, **participant**.
 5. *Statistics and modelling in infectious disease*, University of Washington, July 2018, **participant**.
-6. *Cancer cell signalling*, University of Leeds, June 2018, **presentation**
+6. *Cancer cell signalling*, University of Leeds, June 2018, **talk**
 7. *In silico systems biology*, EMBL-EBI Cambridge, June 2018, **poster**
 
 <img src="/images/Math_bio.png?raw=true"/>
