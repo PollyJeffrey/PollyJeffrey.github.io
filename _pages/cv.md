@@ -21,3 +21,16 @@ Throughout my PhD I tutored small groups of undergraduate students in applied ma
 **Biostatistician**, 2015 - 2016  
 Labcorp drug development  
 I spent a year out from my undergraduate degree working for Labcorp as a student biostatistician. This role involved programming using the language SAS, to generate tables, figures and listings, as well as performing statistical analysis with clinical data and writing statistical documents. I was also involved with the training of new starters towards the end of my placement.
+
+## Education  
+**Ph.D. in Applied Mathematics**, 2017 - 2021  
+University of Leeds  
+ * Thesis title: Mathematical modelling of cellular receptor-ligand dynamics
+ * Industrial collaboration: AstraZeneca
+
+**BSc Mathematics (Industrial): 1st Class Hons**, 2013 - 2017  
+University of Leeds  
+
+**A-levels: Mathematics (A), Chemistry (A), Biology (A)**, 2011 - 2013  
+King Edward VI high school, Morpeth  
+
