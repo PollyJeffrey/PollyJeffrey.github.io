@@ -24,6 +24,8 @@ ___
 *Labcorp drug development*  
 > I spent a year out from my undergraduate degree working for Labcorp as a student biostatistician. This role involved programming using the language SAS, to generate tables, figures and listings, as well as performing statistical analysis with clinical data and writing statistical documents. I was also involved with the training of new starters towards the end of my placement.
 
+___
+
 ## Education  
 **Ph.D. in Applied Mathematics**, 2017 - 2021  
 *University of Leeds*
