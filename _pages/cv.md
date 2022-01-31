@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Click [here](/files/Polly_Jeffrey_CV_January_2022.pdf) to download a copy of my current CV.  
+Click [here](/files/Polly_Jeffrey_CV_January_2022.pdf) to download a copy of my current CV and click [here](https://www.linkedin.com/in/polly-anne-jeffrey/) to access my LinkedIn profile. Due to the fixed term of my postdoc contract, I will be looking for a new position from the summer of 2022 so please contact me if you think my skills are a good match for a position you are recruiting for! 
 
 <hr style="border:2px solid gray">
 
