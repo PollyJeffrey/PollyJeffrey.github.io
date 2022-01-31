@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-Click [here](/files/Polly_Jeffrey_CV_April_2021.pdf) to download my current CV.
+Click [here](/files/Polly_Jeffrey_CV_January_2022.pdf) to download a copy of my current CV.
