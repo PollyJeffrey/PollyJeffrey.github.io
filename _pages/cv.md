@@ -24,7 +24,7 @@ I spent a year out from my undergraduate degree working for Labcorp as a student
 
 ## Education  
 **Ph.D. in Applied Mathematics**, 2017 - 2021  
-University of Leeds  
+University of Leeds
  * Thesis title: Mathematical modelling of cellular receptor-ligand dynamics
  * Industrial collaboration: AstraZeneca
 
