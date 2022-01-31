@@ -12,7 +12,7 @@ Click [here](/files/Polly_Jeffrey_CV_January_2022.pdf) to download a copy of my 
 <hr style="border:2px solid gray">
 
 ### Relevant experience  
-**Postdoctoral research fellow in Applied Mathematics**, 2021 - Present  
+Postdoctoral research fellow in Applied Mathematics, 2021 - Present  
 *University of Leeds*  
 My research is in collaboration with the Defence Science and Technology Laboratory (DSTL). I am using computational mathematical modelling and data analysis to study the within-host spread of Anthrax infection. The model will be able to make predictions about the spread and severity of Anthrax infection, and will incorporate different drug treatments.
 
