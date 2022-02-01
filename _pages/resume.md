@@ -26,7 +26,7 @@ I spent a year out from my undergraduate degree working for Labcorp as a student
 
 <hr style="border:2px solid gray">
 
-## Education  
+### Education  
 <span style="color:#47689e">Ph.D. in Applied Mathematics</span>, 2017 - 2021  
 *University of Leeds*
  * Thesis title: Mathematical modelling of cellular receptor-ligand dynamics.
@@ -40,7 +40,7 @@ I spent a year out from my undergraduate degree working for Labcorp as a student
 
 <hr style="border:2px solid gray">
 
-## Technical and communication skills  
+### Technical and communication skills  
  * **Languages:** Python, R, SQL, SAS, HTML/CSS.
  * **Tools:** LaTeX, Git, GitHub, Mathematica.
  * **Techniques:** Differential equation modelling, Markov chain modelling, Model simulation, Bayesian inference, Linear regression, ANOVA and post-hoc analyses, Principal component analysis, Data visualisation.
