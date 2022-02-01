@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+Some of the research projects I have worked on are described below. For related publications see the [publications](https://pollyjeffrey.github.io/publications/) page of this site, and for computer codes relating to these publications, see my [GitHub profile](https://github.com/PollyJeffrey).
+
 ### Postdoc research project
 For my current postdoc I am working with DSTL, combining mathematical modelling with data to study the within-host spread of Anthrax infection. *Bacillus anthracis* is a bacterium that can survive as a dormant spore for years, and upon inhalation by a host, can de-sporulate and cause deadly disease. If caught early, treatment is possible with a long course of antibiotics. I am using stochastic and deterministic modelling to describe the intracellular and within-host dynamics of Anthrax infection, working with dose response and time course data from DSTL to calibrate such models. The aim is to use these models to make predictions about infection and survival in patients with Anthrax, and to quantify the effects of different antibiotic treatments.
 
