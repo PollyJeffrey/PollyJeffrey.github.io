@@ -10,13 +10,20 @@ A list of some of the conferences and workshops I have attended, presented at, o
 * *<span style="color:#47689e">Probability in the North East</span>*  
 Online via Zoom, Jan 2021, **talk**.  
 A recording of my talk can be found [here](https://www.youtube.com/watch?v=3eXdvkUeKBo)
-* *British Early Career Mathematicians' Colloquium*, Online via Zoom, July 2020, **talk**. <br>
-* *The mathematics of biology and medicine*, University of Leeds, September 2019, **organiser**. <br>
-    The poster for this conference can be seen below.
-* *Stochastic modelling in health and disease*, University of Leeds, September 2019, **participant**.
-* *Mathematical modelling in immunology*, BSI Cambridge, May 2019, **participant**.
-* *Statistics and modelling in infectious disease*, University of Washington, July 2018, **participant**.
-* *Cancer cell signalling*, University of Leeds, June 2018, **talk**
-* *In silico systems biology*, EMBL-EBI Cambridge, June 2018, **poster**
+* *<span style="color:#47689e">British Early Career Mathematicians' Colloquium</span>*  
+Online via Zoom, Jul 2020, **talk**.  
+* *<span style="color:#47689e">The mathematics of biology and medicine</span>* 
+University of Leeds, Sep 2019, **organiser**.  
+The poster for this conference can be seen below.  
+* *<span style="color:#47689e">Stochastic modelling in health and disease</span>*  
+University of Leeds, Sep 2019, **participant**.  
+* *<span style="color:#47689e">Mathematical modelling in immunology</span>*  
+BSI Cambridge, May 2019, **participant**.  
+* *<span style="color:#47689e">Statistics and modelling in infectious disease</span>*  
+University of Washington, Jul 2018, **participant**.  
+* *<span style="color:#47689e">Cancer cell signalling</span>*  
+University of Leeds, Jun 2018, **talk**  
+* *<span style="color:#47689e">In silico systems biology</span>*  
+EMBL-EBI Cambridge, Jun 2018, **poster**  
 
 <img src="/images/Math_bio.png?raw=true"/>
