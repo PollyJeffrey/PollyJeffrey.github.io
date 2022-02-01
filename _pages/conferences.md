@@ -7,8 +7,9 @@ author_profile: true
 
 A list of some of the conferences and workshops I have attended, presented at, or organised during my time at Leeds University as a PhD student.
 
-* *Probability in the North East*, Online via Zoom, January 2021, **talk**. <br>
-    A recording of my talk can be found <a href="https://www.youtube.com/watch?v=3eXdvkUeKBo">here.</a>
+* *<span style="color:#47689e">Probability in the North East</span>*  
+Online via Zoom, Jan 2021, **talk**.  
+A recording of my talk can be found [here](https://www.youtube.com/watch?v=3eXdvkUeKBo)
 * *British Early Career Mathematicians' Colloquium*, Online via Zoom, July 2020, **talk**. <br>
 * *The mathematics of biology and medicine*, University of Leeds, September 2019, **organiser**. <br>
     The poster for this conference can be seen below.
