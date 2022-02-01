@@ -1,17 +1,13 @@
 ---
 layout: archive
-title: "Research interests"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-Thesis working title:  
-*"Mathematical modelling of cellular receptor signalling"*
+## Postdoc research project
+For my current postdoc I am working with DSTL, combining mathematical modelling with data to study the within-host spread of Anthrax infection. *Bacillus anthracis* is a bacterium that can survive as a dormant spore for years, and upon inhalation by a host, can de-sporulate and cause deadly disease. If caught early, treatment is possible with a long course of antibiotics. I am using stochastic and deterministic modelling to describe the intracellular and within-host dynamics of Anthrax infection, working with dose response and time course data from DSTL to calibrate such models. The aim is to use these models to make predictions about infection and survival in patients with Anthrax, and to quantify the effects of different antibiotic treatments.
 
-I am interested in using deterministic and stochastic mathematical models to answer questions about biological systems, in particular systems involving the interaction between cell surface receptors and other extra- and intra-cellular molecules. I am also interested in learning about the parameters, such as binding rate constants, of such mathematical models by employing Bayesian inference techniques.
+## PhD research projects
+PhD thesis title ""
 
-Although my current research focuses around molecular interactions, I am also interested in using mathematical modelling to study the spread of disease, within host and within a population. Viral and bacterial modelling is a focus of the research group as a whole which I am currently a member of.
-			
-As well as mathematical modelling and statistical inference, I enjoy programming and have experience both Python, R, Mathematica and Matlab.
-
-<img src="/images/leeds2.png?raw=true"/>
