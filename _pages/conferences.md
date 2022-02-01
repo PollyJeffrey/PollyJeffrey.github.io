@@ -26,4 +26,4 @@ University of Leeds, Jun 2018, **talk**
 * *<span style="color:#47689e">In silico systems biology</span>*  
 EMBL-EBI Cambridge, Jun 2018, **poster**  
 
-<img src="/images/Math_bio.png?raw=true"/>
+<img src="/images/Math_bio_use.png?raw=true"/>
