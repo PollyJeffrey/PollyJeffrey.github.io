@@ -5,6 +5,8 @@ permalink: /conferences/
 author_profile: true
 ---
 
+A list of some of the conferences and workshops I have attended, presented at, or organised during my time at Leeds University as a PhD student.
+
 * *Probability in the North East*, Online via Zoom, January 2021, **talk**. <br>
     A recording of my talk can be found <a href="https://www.youtube.com/watch?v=3eXdvkUeKBo">here.</a>
 * *British Early Career Mathematicians' Colloquium*, Online via Zoom, July 2020, **talk**. <br>
