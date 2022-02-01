@@ -12,7 +12,7 @@ Online via Zoom, Jan 2021, **talk**.
 A recording of my talk can be found [here](https://www.youtube.com/watch?v=3eXdvkUeKBo)
 * *<span style="color:#47689e">British Early Career Mathematicians' Colloquium</span>*  
 Online via Zoom, Jul 2020, **talk**.  
-* *<span style="color:#47689e">The mathematics of biology and medicine</span>* 
+* *<span style="color:#47689e">The mathematics of biology and medicine</span>*  
 University of Leeds, Sep 2019, **organiser**.  
 The poster for this conference can be seen below.  
 * *<span style="color:#47689e">Stochastic modelling in health and disease</span>*  
