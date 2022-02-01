@@ -2,16 +2,16 @@
 main:
   - title: "Research"
     url: /research/    
-    
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Conferences"
-    url: /conferences/    
-    
+      
   - title: "Outreach"
     url: /outreach/        
-        
+
+  - title: "Conferences"
+    url: /conferences/  
+
+  - title: "Publications"
+    url: /publications/        
+      
   - title: "Resume"
     url: /resume/
     
