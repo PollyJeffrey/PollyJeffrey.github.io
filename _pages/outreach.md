@@ -16,4 +16,4 @@ This was an event at Leeds University in which year 10 and 11 students from loca
 3. <span style="color:#47689e">Leeds festival of science</span>, March 2019  
 This was a two week festival in Leeds which we contributed to by visiting local schools and running interactive mathematical biology sessions to classes of school children in years 7 to 11. I was involved in both developing and delivering these sessions as well as tweaking the specific activities to be appropriate for each age group.
 
-<img src="/images/lfos.png?raw=true"/>
+<img src="/images/lfos2.png?raw=true"/>
