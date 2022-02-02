@@ -14,8 +14,6 @@ This involved running group projects at a local sixth form college with the aim 
 This was an event at Leeds University in which year 10 and 11 students from local schools came to take part in interactive activities in biology, mathematics and chemistry. I was involved in developing the mathematics activity, using a branching process application developed in Python, a set of slides about cell division and an activity sheet. I also delivered the event to several groups of students.
 
 3. <span style="color:#47689e">Leeds festival of science</span>, March 2019  
-This was a two week festival in Leeds which we contributed to by visiting local schools and running interactive mathematical biology sessions to classes of school children in years 7 to 11. I was involved in both developing and delivering these sessions as well as tweaking the specific activities to be appropriate for each age group.  
+This was a two week festival in Leeds which we contributed to by visiting local schools and running interactive mathematical biology sessions to classes of school children in years 7 to 11. I was involved in both developing and delivering these sessions as well as tweaking the specific activities to be appropriate for each age group.
 
-Below is a photo of me at maths world in Leeds!  
-
-<img src="/images/lfos3.png?raw=true"/>&nbsp;&nbsp;<img src="/images/math_world2.jpg?raw=true"/>
+<img src="/images/lfos3.png?raw=true"/>
