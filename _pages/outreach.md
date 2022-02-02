@@ -18,4 +18,4 @@ This was a two week festival in Leeds which we contributed to by visiting local 
 
 Below is a photo of me at maths world in Leeds!  
 
-<img src="/images/lfos2.png?raw=true"/>&nbsp;&nbsp;<img src="/images/math_world2.jpg?raw=true"/>
+<img src="/images/lfos3.png?raw=true"/>&nbsp;&nbsp;<img src="/images/math_world2.jpg?raw=true"/>
