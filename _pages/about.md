@@ -16,6 +16,6 @@ Please follow the links on this site to see more about my past and current resea
 
 I am interested in mathematical modelling, statistical learning and data science within the context of health and disease. I have experience in all of these areas including programming (predominantly in Python), Bayesian and frequentist statistics, data visualisation and scientific writing. Outside of work, I enjoy spending time with family and friends, travelling, hiking and I am an active member of a triathlon club! Below is a photo from my undergraduate graduation ceremony.
 
-<img src="/images/Graduation2.png?raw=true"/><img src="/images/paddleboard.jpg?raw=true"/>
+<img src="/images/Graduation2.png?raw=true"/><img src="/images/paddleboard2.jpg?raw=true"/>
 
 ---
