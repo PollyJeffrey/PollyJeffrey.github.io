@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Click [here](/files/Polly_Jeffrey_CV_January_2022.pdf) to download a copy of my current CV and click [here](https://www.linkedin.com/in/polly-anne-jeffrey/) to access my LinkedIn profile. Due to the fixed term of my postdoc contract, I will be looking for a new position from the summer of 2022 so please contact me if you think my skills are a good match for a position you are recruiting for! 
+Click [here](/files/Polly_Jeffrey_CV_March_2022.pdf) to download a copy of my current CV and click [here](https://www.linkedin.com/in/polly-anne-jeffrey/) to access my LinkedIn profile. Due to the fixed term of my postdoc contract, I will be looking for a new position from the summer of 2022 so please contact me if you think my skills are a good match for a position you are recruiting for! 
 
 <hr style="border:2px solid gray">
 
@@ -41,7 +41,7 @@ I spent a year out from my undergraduate degree working for Labcorp as a student
 <hr style="border:2px solid gray">
 
 ### Technical and communication skills  
- * **Languages:** Python, R, SQL, SAS, HTML/CSS.
+ * **Languages:** Python, R, SAS, HTML/CSS.
  * **Tools:** LaTeX, Git, GitHub, Mathematica.
  * **Techniques:** Differential equation modelling, Markov chain modelling, Model simulation, Bayesian inference, Linear regression, ANOVA and post-hoc analyses, Principal component analysis, Data visualisation.
  * **Scientific writing:** Peer-reviewed publications (see [ORCID](https://orcid.org/0000-0001-6476-0402)), PhD thesis, Conference presentations and posters.
